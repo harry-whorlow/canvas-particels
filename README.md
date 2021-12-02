@@ -19,7 +19,7 @@ vectorField({
   Vector Field</a> by Harry Whorlow (<a href="https://codepen.io/theangryenglishman">@theangryenglishman</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ## `venomParticles`
 
