@@ -1,13 +1,16 @@
 {
     "name": "canvas-particles",
-    "version": "0.0.1",
-    "description": "",
+    "version": "0.1.1",
+    "description": "collection of canvas effects",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "Harry Whorlow",
+    "author": {
+        "name": "Harry Whorlow",
+        "url": "https://www.harrywhorlow.io"
+    },
     "license": "ISC",
     "type": "module"
 }
