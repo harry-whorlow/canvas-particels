@@ -1,6 +1,6 @@
 {
-    "name": "canvas-particles",
-    "version": "0.1.1",
+    "name": "@TheAngryEnglishman/canvas-particles",
+    "version": "0.1.2",
     "description": "collection of canvas effects",
     "main": "index.js",
     "scripts": {
